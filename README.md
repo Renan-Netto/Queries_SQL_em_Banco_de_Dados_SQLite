@@ -20,9 +20,9 @@ As demais manipulações de dados para o BD SQLite foram feitas usando o pacote 
 
 #### Declarações SQLs envolvidas
 
-Declarações: SELECT, FROM, WHERE, GROUP BY, ORDER BY, HAVING;
-Funções de agragação: COUNT, SUM, MIN, MAX, AVG;
-Operadores: AND, OR, NOT.
+- Declarações: SELECT, FROM, WHERE, GROUP BY, ORDER BY, HAVING;
+- Funções de agregação: COUNT, SUM, MIN, MAX, AVG;
+- Operadores: AND, OR, NOT.
 
 #### Linguagens e Pacotes Utilizados
 
